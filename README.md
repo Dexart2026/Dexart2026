@@ -41,7 +41,7 @@ Página desenvolvida com foco em design moderno, responsividade e apresentação
 ## ✆ Contato
 - LinkedIn: [www.linkedin.com/in/andre-cs-dex]
 - GitHub: [https://github.com/Dexart2026]
-- Portifólio: [
+- Portifólio: [https://dexart2026.github.io/Portifolio/]
 
 ---
 𖣠 Sempre buscando evoluir e construir projetos cada vez melhores.
