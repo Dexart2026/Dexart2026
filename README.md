@@ -39,8 +39,9 @@ Página desenvolvida com foco em design moderno, responsividade e apresentação
 - Boas práticas de desenvolvimento web
 
 ## ✆ Contato
-- LinkedIn: [seu link aqui]
-- GitHub: [seu link aqui]
+- LinkedIn: [www.linkedin.com/in/andre-cs-dex]
+- GitHub: [https://github.com/Dexart2026]
+- Portifólio: [
 
 ---
 𖣠 Sempre buscando evoluir e construir projetos cada vez melhores.
